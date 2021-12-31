@@ -1,4 +1,4 @@
-# NFT Auction data for Foundation.app
+# Code and Data for paper "Under the Skin of Foundation NFT Auctions"
 
 [![arXiv](https://img.shields.io/badge/arXiv-2109.12321-b31b1b.svg?style=flat)](https://arxiv.org/abs/2109.12321)
 
