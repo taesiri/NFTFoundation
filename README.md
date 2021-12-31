@@ -12,6 +12,10 @@ This repository contains collected data for the paper "Under the Skin of Foundat
 
 [ResNet101 Embeddings](https://drive.google.com/file/d/1teQni4MUIFxlmxnJQJGb2PmGf2GmQIZi/view?usp=sharing)
 
+## Dependencies 
+
+Check the official instructions [here](https://github.com/facebookresearch/faiss/blob/main/INSTALL.md), if you've encountered an issue while installing the FAISS library.
+
 ## Updates
 ### Dec 30, 2021
 * Added code for nearest neighbor search on NFT images
