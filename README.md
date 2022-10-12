@@ -1,7 +1,7 @@
 # Code and Data for paper "Under the Skin of Foundation NFT Auctions"
 
 [![arXiv](https://img.shields.io/badge/arXiv-2109.12321-b31b1b.svg?style=flat)](https://arxiv.org/abs/2109.12321)
-
+[![DOI](https://zenodo.org/badge/393161479.svg)](https://zenodo.org/badge/latestdoi/393161479)
 
 This repository contains collected data and codes for the paper "Under the Skin of Foundation NFT Auctions" [[arxiv](https://arxiv.org/abs/2109.12321)].
 
